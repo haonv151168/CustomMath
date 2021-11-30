@@ -1,0 +1,3 @@
+rootProject.name = "CustomMath"
+include ':app'
+include ':MyUtils'
